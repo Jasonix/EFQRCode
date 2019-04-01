@@ -86,10 +86,11 @@ git clone git@github.com:EFPrefix/EFQRCode.git; cd EFQRCode; git submodule updat
 
 ## Requirements
 
-| Version | Needs                                                           |
-|:--------|:----------------------------------------------------------------|
-| 1.x     | XCode 8.0+<br>Swift 3.0+<br>iOS 8.0+ / macOS 10.11+ / tvOS 9.0+ |
-| 4.x     | XCode 9.0+<br>Swift 4.0+<br>iOS 8.0+ / macOS 10.11+ / tvOS 9.0+ |
+| Version | Needs                                                            |
+|:--------|:-----------------------------------------------------------------|
+| 1.x     | XCode 8.0+<br>Swift 3.0+<br>iOS 8.0+ / macOS 10.11+ / tvOS 9.0+  |
+| 4.x     | XCode 9.0+<br>Swift 4.0+<br>iOS 8.0+ / macOS 10.11+ / tvOS 9.0+  |
+| 5.x     | XCode 10.2+<br>Swift 5.0+<br>iOS 8.0+ / macOS 10.11+ / tvOS 9.0+ |
 
 ## Installation
 
